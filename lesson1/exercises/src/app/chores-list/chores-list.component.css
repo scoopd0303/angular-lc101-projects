@@ -1,0 +1,7 @@
+.chores h3 {
+    color: darkslategray;
+    text-decoration: underline;
+} .chores li {
+    color: dodgerblue;
+    font-style: italic;
+}

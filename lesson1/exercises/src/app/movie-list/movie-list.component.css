@@ -1,0 +1,8 @@
+.movies h3{
+    color: darkblue;
+    text-align: center;
+    font-size: xx-large;
+} .movies li {
+    color: darkred;
+    font-size: large;
+}
