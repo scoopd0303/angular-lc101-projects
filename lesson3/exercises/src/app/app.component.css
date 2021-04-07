@@ -17,6 +17,7 @@
     display: inline-block;
     height: 100%;
     width: 100%;
+    /* width: 400px; */
     position: relative;
 }
 
